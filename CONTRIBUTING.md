@@ -23,4 +23,5 @@ If you think you have identified a security flaw in one of our applications, you
 
 ## Additional Information
 [Information on Open Source at the DVLA](http://dvla.github.io/)
+
 [GDS Git Style Guide](https://github.com/alphagov/styleguides/blob/master/git.md)
