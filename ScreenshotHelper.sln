@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenshotHelper", "ScreenshotHelper\ScreenshotHelper.csproj", "{0A5C1978-B45B-4F97-B9C3-6EF1F04F8F51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EVL.Web.Test.Shared", "EVL.Web.Test.Shared\EVL.Web.Test.Shared.csproj", "{0A5C1978-B45B-4F97-B9C3-6EF1F04F8F51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleTests", "SampleTests\SampleTests.csproj", "{CA264426-A9FF-40CA-A615-36E1F2588C76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.Tests", "Sample.Tests\Sample.Tests.csproj", "{CA264426-A9FF-40CA-A615-36E1F2588C76}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

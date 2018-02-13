@@ -60,7 +60,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ScreenshotHelper\ScreenshotHelper.csproj">
+    <ProjectReference Include="..\EVL.Web.Test.Shared\EVL.Web.Test.Shared.csproj">
       <Project>{0a5c1978-b45b-4f97-b9c3-6ef1f04f8f51}</Project>
       <Name>ScreenshotHelper</Name>
     </ProjectReference>

@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SeleniumHelper;
+using EVL.Web.Test.Shared;
 
 namespace SampleTests.Web.Validation
 {

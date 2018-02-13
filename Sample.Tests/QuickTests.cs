@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using SeleniumHelper;
+using EVL.Web.Test.Shared;
 
 namespace SampleTests.Web.Quick
 {
@@ -37,11 +37,9 @@ namespace SampleTests.Web.Quick
             TakeScreenshot();
 
             //In order to take two screenshots in the same method, call TakeScreenShot again, but provide your own filename
-
             Browser.FindElementByLinkText("Cymraeg").Click();
 
             TakeScreenshot("VesHomePageTest_Welsh.png");
-
         }
     }
 }

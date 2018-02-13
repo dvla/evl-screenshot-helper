@@ -7,9 +7,8 @@ using System.Reflection;
 using System.IO;
 using OpenQA.Selenium.Remote;
 using System.Drawing.Imaging;
-using ScreenshotHelper;
 
-namespace SeleniumHelper
+namespace EVL.Web.Test.Shared
 {
     [TestClass]
     public class ScreenshotManager

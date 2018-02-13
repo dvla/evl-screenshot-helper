@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ScreenshotHelper
+namespace EVL.Web.Test.Shared
 {
     static class Utilities
     {
