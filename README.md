@@ -16,4 +16,4 @@ Requires FireFox browser to be installed. We use [Firefox v47](https://ftp.mozil
 
 Screenshots will be then be saved in the root directory as specified in the `app.config` file, using the test namespace and method name to create a folder structure.
 
-Checkout the **SampleTests** project for examples and more info
+Checkout the **Sample.Tests** project for examples and more info
